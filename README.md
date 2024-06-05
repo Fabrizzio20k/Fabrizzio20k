@@ -19,7 +19,7 @@
 ## 📈 Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fabrizzio20k&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api?username=Fabrizzio20k&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizzio20k&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabrizzio20k&theme=tokyonight&hide_border=true)
 
 ## 🌱 Actualmente Estoy...
