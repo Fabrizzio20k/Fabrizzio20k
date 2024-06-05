@@ -1,4 +1,4 @@
-# 🌟 ¡Hola, soy [Tu Nombre]! 🌟
+# 🌟 ¡Hola, soy Fabrizzio! 🌟
 
 ¡Bienvenido a mi rincón de GitHub! Soy un apasionado desarrollador Fullstack de Perú y estudiante de Ciencias de la Computación. Aquí encontrarás algunos de mis proyectos y contribuciones al mundo del desarrollo de software.
 
@@ -10,11 +10,11 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Frontend:** React, Angular, Vue.js, HTML5, CSS3, JavaScript.
-- **Backend:** Node.js, Express, Django, Flask, Ruby on Rails.
+- **Frontend:** React, Vue.js, HTML5, CSS3, JavaScript.
+- **Backend:** Node.js, Express, Django, Flask.
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB.
-- **DevOps:** Docker, Kubernetes, AWS, Heroku.
-- **Otras Herramientas:** Git, GitHub, VS Code, Webpack.
+- **DevOps:** Docker, AWS, Vercel.
+- **Otras Herramientas:** Git, GitHub, VS Code.
 
 ## 📈 Estadísticas de GitHub
 
