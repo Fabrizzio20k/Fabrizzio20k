@@ -30,20 +30,12 @@
 
 ## 📫 Cómo Contactarme
 
-- **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/tu-usuario)
-- **Twitter:** [twitter.com/tu-usuario](https://twitter.com/tu-usuario)
-
-## 🚀 Proyectos Destacados
-
-- [**Proyecto 1**](https://github.com/tu-usuario/proyecto-1): Breve descripción del proyecto.
-- [**Proyecto 2**](https://github.com/tu-usuario/proyecto-2): Breve descripción del proyecto.
-- [**Proyecto 3**](https://github.com/tu-usuario/proyecto-3): Breve descripción del proyecto.
+- **Email:** [fabrizzio785@gmail.com](mailto:fabrizzio785@gmail.com)
+- **LinkedIn:** [linkedin.com/in/fabrizzio20k](https://www.linkedin.com/in/fabrizzio20k/)
+- **Sitio web:** [FabrizzioDev](https://fabrizziodev.vercel.app/)
 
 ## ✨ Contribuciones
 
 ¡Siempre estoy buscando contribuir a proyectos interesantes y colaborar con otros desarrolladores! No dudes en revisar mis repositorios y contactarme si tienes alguna idea o proyecto en mente.
 
 ---
-
-¡Gracias por visitar mi perfil! 🚀
