@@ -6,7 +6,7 @@ Welcome to my GitHub corner! I'm a passionate Fullstack developer from Peru and 
 
 ## 📈 GitHub Stats
 
-![Fabrizzio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabrizzio20k&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Fabrizzio's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Fabrizzio20k&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizzio20k&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fabrizzio20k&theme=vue-dark&hide_border=true)
 
