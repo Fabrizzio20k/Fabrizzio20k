@@ -58,8 +58,8 @@ Welcome to my GitHub corner! I'm a passionate Fullstack developer from Peru and 
 I'm always looking to contribute to interesting projects and collaborate with other developers! Feel free to check out my repositories and contact me if you have any ideas or projects in mind.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabrizzio20k/Fabrizzio20k/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabrizzio20k/Fabrizzio20k/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fabrizzio20k/Fabrizzio20k/output/github-contribution-grid-snake.svg">
 </picture>
 
